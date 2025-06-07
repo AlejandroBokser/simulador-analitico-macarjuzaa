@@ -1,0 +1,11 @@
+{
+  "btc_collateral": 3.0,
+  "bpro_supply": 3.0,
+  "doc_supply": 0.0,
+  "target_parameter": 4.0,
+  "price_average_180d": 7000.0,
+  "btc_price": 8000.0,
+  "simulation_parameters": {
+    "doc_threshold": 90
+  }
+}
